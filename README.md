@@ -26,5 +26,6 @@ Combined DWT-DCT watermark embedding procedure
 
 
 DWT-DCT watermark extraction
+
 ![image](https://github.com/Gopikapothen/Watermarking/assets/83344741/8d806d64-254b-4ec0-8ec9-2c2f80dd4b78)
 
