@@ -20,3 +20,11 @@ In DWT-based watermarking, the original image is first transformed into its wave
 The wavelet coefficients are then modified by adding the watermark to specific coefficients, which are chosen based on their perceptual importance. 
 The modified wavelet coefficients are then transformed back into the original image using the inverse DWT to produce the watermarked image.
 The main advantage of DWT-based watermarking is that it can provide good frequency localization of the watermark, which can improve the robustness of the watermark against common signal processing attacks such as compression and noise addition. 
+
+Combined DWT-DCT watermark embedding procedure
+![image](https://github.com/Gopikapothen/Watermarking/assets/83344741/9f928aca-a5e0-4647-8637-7c9a5bacc6a0)
+
+
+DWT-DCT watermark extraction
+![image](https://github.com/Gopikapothen/Watermarking/assets/83344741/8d806d64-254b-4ec0-8ec9-2c2f80dd4b78)
+
